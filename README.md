@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <a href="https://gitee.com/eternidad33"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 - 📚**实习**：广州
 - 💻**后端**：Java
@@ -35,14 +34,11 @@ Here are some ideas to get you started:
 ```text
 Time: 2019 - 2021
 
-💬 编程语言: 
-Java、Vue
+💬 编程语言: Java、Vue
 
-🔥 常用编辑器: 
-JetBrain Idea、Visual Code
+🔥 常用编辑器: JetBrain Idea、Visual Code
 
-💻 操作系统: 
-Windows、Linux
+💻 操作系统: Windows、Linux
 
 ```
 
