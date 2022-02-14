@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Time: 2019 - 2021
+Time: 2019 - 2022
 
 💬 编程语言: 
-Java、Vue
+Java、Python、Vue
 
 🔥 常用编辑器: 
-JetBrain Idea、Visual Code
+JetBrain Idea、Visual Code、Pycharm
 
 💻 操作系统: 
 Windows、Linux
