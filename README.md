@@ -21,17 +21,17 @@ Windows、Linux
 
 <table style="border: none">
 <tr >
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ## :book: Project
 
 - [A Simple Blog](https://github.com/coder-itcheng/simple-blog)
 
 </td>
-<td width="100%" style="padding:0px !important">
-<a href="https://acheng.vip/" target="_blank" rel="noopener" align="right">
-<img src="https://acheng.vip/favicon.ico?raw=true">
-</a>
+<td width="50%" valign="top">
+
+## :book: Resource
+
 </td>
 </tr>
 </table>
