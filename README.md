@@ -1,39 +1,10 @@
-<!--
-**Coder-itCheng/Coder-itCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-
-
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
-<p align="center">
-  <a href="https://github.com/coder-itcheng"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-  <a href="https://gitee.com/hubCheng"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
-  <a href="https://blog.csdn.net/weixin_45775746"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-</p>
-
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
-
-- 📚**实习**：广州
-- 💻**后端**：Java
-- 📝**前端**：HTML，CSS，JS， Vue
-- 💼**数据库**：MySQL，Redis
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I'm+%E6%B8%85%E9%A3%8E%E5%BE%90%E6%9D%A5)](https://git.io/typing-svg)
+### hey there
+Hi，我是「清风徐来」，一位软件工程专业的大三学生。如果你有兴趣，你可以去访问我的个人博客查看（[Site 1](https://acheng.vip) or [Site 2](https://www.acheng.vip)），为它添加一些「烟火气」👻。
 
 **编码信息**  
 
-<!--START_SECTION:waka-->
-
-```text
+```
 Time: 2019 - 2022
 
 💬 编程语言: 
@@ -44,20 +15,31 @@ JetBrain Idea、Visual Code、Pycharm
 
 💻 操作系统: 
 Windows、Linux
-
 ```
 
-<!--END_SECTION:waka-->
+<br />
 
-<details>
-<summary>GitHub统计信息</summary>
-<br/>
+<table style="border: none">
+<tr >
+<td width="60%" valign="top">
 
+## :book: Project
 
-> 动态太少，不好意思展示
+<!-- BLOG-POST-LIST:START -->
 
-<a href="https://github.com/coder-itcheng/coder-itcheng">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=coder-itcheng&show_icons=true" />
+- [A Simple Blog](https://github.com/coder-itcheng/simple-blog)
+
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+<td width="40%" valign="center">
+<a href="https://acheng.vip/" target="_blank" rel="noopener" align="right">
+<img src="https://s1.ax1x.com/2022/06/01/XJvavt.jpg?raw=true" alt="" width="500px">
 </a>
-</details>
+</td>
+</tr>
+</table>
 
+尽管我在 GitHub 上没有什么贡献和项目，但是我还是想要展示我的状态，~~不知道是什么原因~~（也许是发自内心的不要脸😎）
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=coder-itcheng&show_icons=true&theme=gotham)  ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-itcheng&show_icons=true&theme=gotham) 
