@@ -35,7 +35,7 @@ Windows、Linux
 
 <!-- BLOG-POST-LIST:START -->
 
-- [A Simple Blog](https://github.com/coder-itcheng/simple-blog)
+- [allin(ing)](https://github.com/coder-itcheng/allin): a paas project
   <!-- BLOG-POST-LIST:END -->
 
 
